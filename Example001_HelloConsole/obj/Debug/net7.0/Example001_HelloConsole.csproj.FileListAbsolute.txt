@@ -1,0 +1,15 @@
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.exe
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.deps.json
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.runtimeconfig.json
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.dll
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.pdb
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.dll
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\refint\Example001_HelloConsole.dll
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.pdb
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Kate\Сериалы\Loki.S01.1080p.WEB-DL.LostFilm\Desktop\Examples\Example001_HelloConsole\obj\Debug\net7.0\ref\Example001_HelloConsole.dll
